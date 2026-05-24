@@ -1,7 +1,7 @@
-node_modules
-.next
+node_modules/
+.next/
 .env
-/.env.local
+.env.local
 prisma/dev.db
-dist
+dist/
 tsconfig.tsbuildinfo
